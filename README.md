@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Drill-Mind
-- 👀 I’m interested in anime,novels & Maths
-- 🌱 I’m currently learning DBMS(Database Management Program)
+- 👋 Hi, I’m Krishna Saxena
 - 💞️ I’m looking to collaborate on app development projects
 - 📫 How to reach me:- krishnasaxena3003@gmail.com
 
